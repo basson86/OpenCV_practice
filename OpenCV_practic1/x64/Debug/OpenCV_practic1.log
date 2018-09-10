@@ -1,0 +1,7 @@
+﻿  main_S1_L1_L12.cpp
+main_S1_L1_L12.cpp(546): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+main_S1_L1_L12.cpp(547): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+opencv_ts249d.lib(ts_gtest.obj) : warning LNK4099: PDB 'opencv_ts249d.pdb' was not found with 'opencv_ts249d.lib(ts_gtest.obj)' or at 'C:\products_Offline\OpenCV_practice\x64\Debug\opencv_ts249d.pdb'; linking object as if no debug info
+opencv_ts249d.lib(ts_perf.obj) : warning LNK4099: PDB 'opencv_ts249d.pdb' was not found with 'opencv_ts249d.lib(ts_perf.obj)' or at 'C:\products_Offline\OpenCV_practice\x64\Debug\opencv_ts249d.pdb'; linking object as if no debug info
+opencv_ts249d.lib(opencv_ts_pch.obj) : warning LNK4099: PDB 'opencv_ts249d.pdb' was not found with 'opencv_ts249d.lib(opencv_ts_pch.obj)' or at 'C:\products_Offline\OpenCV_practice\x64\Debug\opencv_ts249d.pdb'; linking object as if no debug info
+  OpenCV_practic1.vcxproj -> C:\products_Offline\OpenCV_practice\x64\Debug\OpenCV_practic1.exe
